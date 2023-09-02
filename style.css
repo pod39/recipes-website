@@ -1,6 +1,5 @@
 #title {
     text-align:center;
-    
 }
 
 .gif {
@@ -8,8 +7,35 @@
     margin-left: auto;
     margin-right: auto;
     height:300px;
-    border: 1px solid red;
-    
+    width: auto;
+    border: 2px solid rgb(144, 205, 228);
+    border-radius: 4px;
 }
 
 
+.recipe-image {
+    border: 2px solid rgb(144, 205, 228);
+    border-radius: 4px;
+    height: 375px;
+    width:auto;
+}
+
+#stretch {
+    height:375px;
+    width: 666.667px;
+}
+
+
+body {
+    background-color: aliceblue;
+}
+
+
+.recipes {
+    font-size: 30px;
+}
+
+
+a:hover {
+    text-decoration: none;
+}
